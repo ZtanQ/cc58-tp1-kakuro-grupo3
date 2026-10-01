@@ -1,0 +1,6 @@
+opencv-python-headless==5.0.0.93
+pytesseract==0.3.13
+ortools==9.15.6755
+numpy
+matplotlib
+pytest==9.1.1

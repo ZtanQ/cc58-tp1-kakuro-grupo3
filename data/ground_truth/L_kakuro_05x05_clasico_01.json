@@ -1,0 +1,119 @@
+{
+  "imagen": "L_kakuro_05x05_clasico_01.png",
+  "etiqueta_original": "L2 06x06_03",
+  "n": 5,
+  "estilo": "clasico",
+  "fuente": "generado con generar_kakuro.py",
+  "celdas_blancas": [
+    [
+      2,
+      4
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      5,
+      4
+    ]
+  ],
+  "pistas": [
+    {
+      "origen": [
+        1,
+        4
+      ],
+      "derecha": null,
+      "abajo": 21
+    },
+    {
+      "origen": [
+        1,
+        5
+      ],
+      "derecha": null,
+      "abajo": 10
+    },
+    {
+      "origen": [
+        2,
+        3
+      ],
+      "derecha": 3,
+      "abajo": null
+    },
+    {
+      "origen": [
+        3,
+        2
+      ],
+      "derecha": null,
+      "abajo": 10
+    },
+    {
+      "origen": [
+        3,
+        3
+      ],
+      "derecha": 17,
+      "abajo": 3
+    },
+    {
+      "origen": [
+        4,
+        1
+      ],
+      "derecha": 6,
+      "abajo": null
+    },
+    {
+      "origen": [
+        5,
+        1
+      ],
+      "derecha": 18,
+      "abajo": null
+    }
+  ],
+  "solucion": {
+    "2,4": 1,
+    "2,5": 2,
+    "3,4": 9,
+    "3,5": 8,
+    "4,2": 1,
+    "4,3": 2,
+    "4,4": 3,
+    "5,2": 9,
+    "5,3": 1,
+    "5,4": 8
+  }
+}

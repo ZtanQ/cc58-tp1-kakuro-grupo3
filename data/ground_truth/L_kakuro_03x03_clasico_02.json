@@ -1,0 +1,65 @@
+{
+  "imagen": "L_kakuro_03x03_clasico_02.png",
+  "etiqueta_original": "L1 04x04_05",
+  "n": 3,
+  "estilo": "clasico",
+  "fuente": "generado con generar_kakuro.py",
+  "celdas_blancas": [
+    [
+      2,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      3,
+      3
+    ]
+  ],
+  "pistas": [
+    {
+      "origen": [
+        1,
+        2
+      ],
+      "derecha": null,
+      "abajo": 11
+    },
+    {
+      "origen": [
+        1,
+        3
+      ],
+      "derecha": null,
+      "abajo": 8
+    },
+    {
+      "origen": [
+        2,
+        1
+      ],
+      "derecha": 16,
+      "abajo": null
+    },
+    {
+      "origen": [
+        3,
+        1
+      ],
+      "derecha": 3,
+      "abajo": null
+    }
+  ],
+  "solucion": {
+    "2,2": 9,
+    "2,3": 7,
+    "3,2": 2,
+    "3,3": 1
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "imagen": "L_kakuro_07x07_clasico_01.png",
+  "etiqueta_original": "L1 07x07_04",
+  "n": 7,
+  "estilo": "clasico",
+  "fuente": "generado con generar_kakuro.py",
+  "celdas_blancas": [
+    [
+      2,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      4
+    ],
+    [
+      5,
+      5
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      6,
+      4
+    ],
+    [
+      6,
+      5
+    ],
+    [
+      7,
+      3
+    ],
+    [
+      7,
+      4
+    ]
+  ],
+  "pistas": [
+    {
+      "origen": [
+        1,
+        2
+      ],
+      "derecha": null,
+      "abajo": 3
+    },
+    {
+      "origen": [
+        1,
+        3
+      ],
+      "derecha": null,
+      "abajo": 17
+    },
+    {
+      "origen": [
+        1,
+        5
+      ],
+      "derecha": null,
+      "abajo": 19
+    },
+    {
+      "origen": [
+        1,
+        6
+      ],
+      "derecha": null,
+      "abajo": 17
+    },
+    {
+      "origen": [
+        1,
+        7
+      ],
+      "derecha": null,
+      "abajo": 9
+    },
+    {
+      "origen": [
+        2,
+        1
+      ],
+      "derecha": 10,
+      "abajo": null
+    },
+    {
+      "origen": [
+        2,
+        4
+      ],
+      "derecha": 12,
+      "abajo": 27
+    },
+    {
+      "origen": [
+        3,
+        1
+      ],
+      "derecha": 30,
+      "abajo": null
+    },
+    {
+      "origen": [
+        4,
+        3
+      ],
+      "derecha": 15,
+      "abajo": null
+    },
+    {
+      "origen": [
+        5,
+        3
+      ],
+      "derecha": 3,
+      "abajo": 17
+    },
+    {
+      "origen": [
+        6,
+        2
+      ],
+      "derecha": 23,
+      "abajo": null
+    },
+    {
+      "origen": [
+        7,
+        2
+      ],
+      "derecha": 16,
+      "abajo": null
+    }
+  ],
+  "solucion": {
+    "2,2": 2,
+    "2,3": 8,
+    "2,5": 1,
+    "2,6": 9,
+    "2,7": 2,
+    "3,2": 1,
+    "3,3": 9,
+    "3,4": 2,
+    "3,5": 3,
+    "3,6": 8,
+    "3,7": 7,
+    "4,4": 8,
+    "4,5": 7,
+    "5,4": 1,
+    "5,5": 2,
+    "6,3": 8,
+    "6,4": 9,
+    "6,5": 6,
+    "7,3": 9,
+    "7,4": 7
+  }
+}

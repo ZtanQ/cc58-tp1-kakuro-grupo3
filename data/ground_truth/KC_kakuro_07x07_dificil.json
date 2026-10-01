@@ -1,0 +1,272 @@
+{
+  "imagen": "KC_kakuro_07x07_dificil.png",
+  "etiqueta_original": "KC 6x6_dificil",
+  "n": 7,
+  "estilo": "gris",
+  "fuente": "Kakuro Conquest (https://www.kakuroconquest.com), usado con permiso de Hey, Good Game",
+  "dificultad": "difícil",
+  "celdas_blancas": [
+    [
+      2,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      4
+    ],
+    [
+      5,
+      5
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      6,
+      4
+    ],
+    [
+      6,
+      5
+    ],
+    [
+      6,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      2
+    ],
+    [
+      7,
+      3
+    ],
+    [
+      7,
+      5
+    ],
+    [
+      7,
+      6
+    ],
+    [
+      7,
+      7
+    ]
+  ],
+  "pistas": [
+    {
+      "origen": [
+        1,
+        2
+      ],
+      "derecha": null,
+      "abajo": 9
+    },
+    {
+      "origen": [
+        1,
+        3
+      ],
+      "derecha": null,
+      "abajo": 4
+    },
+    {
+      "origen": [
+        1,
+        4
+      ],
+      "derecha": null,
+      "abajo": 22
+    },
+    {
+      "origen": [
+        1,
+        6
+      ],
+      "derecha": null,
+      "abajo": 12
+    },
+    {
+      "origen": [
+        1,
+        7
+      ],
+      "derecha": null,
+      "abajo": 3
+    },
+    {
+      "origen": [
+        2,
+        1
+      ],
+      "derecha": 10,
+      "abajo": null
+    },
+    {
+      "origen": [
+        2,
+        5
+      ],
+      "derecha": 7,
+      "abajo": 32
+    },
+    {
+      "origen": [
+        3,
+        1
+      ],
+      "derecha": 33,
+      "abajo": null
+    },
+    {
+      "origen": [
+        4,
+        3
+      ],
+      "derecha": 4,
+      "abajo": null
+    },
+    {
+      "origen": [
+        5,
+        2
+      ],
+      "derecha": null,
+      "abajo": 11
+    },
+    {
+      "origen": [
+        5,
+        3
+      ],
+      "derecha": 8,
+      "abajo": 15
+    },
+    {
+      "origen": [
+        5,
+        6
+      ],
+      "derecha": null,
+      "abajo": 4
+    },
+    {
+      "origen": [
+        5,
+        7
+      ],
+      "derecha": null,
+      "abajo": 9
+    },
+    {
+      "origen": [
+        6,
+        1
+      ],
+      "derecha": 33,
+      "abajo": null
+    },
+    {
+      "origen": [
+        7,
+        1
+      ],
+      "derecha": 16,
+      "abajo": null
+    },
+    {
+      "origen": [
+        7,
+        4
+      ],
+      "derecha": 10,
+      "abajo": null
+    }
+  ],
+  "solucion": {
+    "2,2": 4,
+    "2,3": 1,
+    "2,4": 5,
+    "2,6": 5,
+    "2,7": 2,
+    "3,2": 5,
+    "3,3": 3,
+    "3,4": 9,
+    "3,5": 8,
+    "3,6": 7,
+    "3,7": 1,
+    "4,4": 1,
+    "4,5": 3,
+    "5,4": 3,
+    "5,5": 5,
+    "6,2": 2,
+    "6,3": 8,
+    "6,4": 4,
+    "6,5": 9,
+    "6,6": 3,
+    "6,7": 7,
+    "7,2": 9,
+    "7,3": 7,
+    "7,5": 7,
+    "7,6": 1,
+    "7,7": 2
+  }
+}

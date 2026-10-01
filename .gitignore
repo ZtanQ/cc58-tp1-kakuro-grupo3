@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data.zip
+# resultados/ se genera con scripts/evaluar.py; solo se versionan los resúmenes.
+resultados/*
+!resultados/resumen.md
+!resultados/auditoria.md
+privado/
+privado/
