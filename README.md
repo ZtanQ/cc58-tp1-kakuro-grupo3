@@ -248,4 +248,5 @@ Coordenadas `(fila, columna)` empezando en 1. La fila 1 y la columna 1 siempre s
 - M. Mulamba et al., *Perception-based constraint solving for sudoku images*, Constraints 29 (2024). Base de la idea de las "variables de percepción".
 - Tesseract OCR: https://github.com/tesseract-ocr/tesseract
 - OR-Tools CP-SAT: https://developers.google.com/optimization/cp/cp_solver
-- Los puzzles `KC_*` son de Kakuro Conquest (https://www.kakuroconquest.com), usados con permiso de Hey, Good Game.
+- Los puzzles `KC_*` son de Kakuro Conquest (https://www.kakuroconquest.com), usados con permiso de Hey, Good Game, exclusivamente con fines académicos y no comerciales. Los puzzles pertenecen a sus autores y no se presentan como propios.
+
